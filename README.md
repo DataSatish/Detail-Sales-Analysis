@@ -51,6 +51,6 @@ XYZ Enterprises needed a deeper understanding of their historical sales performa
 ---
 
 ## 👤 Author
-**Satish Aryal** — Aspiring Data Analyst
+**Satish Aryal** —  Data Analyst
 - 🔗 [LinkedIn](https://www.linkedin.com/in/satish-aryal-599693298/)
 - 💻 [GitHub](https://github.com/DataSatish)
